@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Microsoft.AspNetCore.Identity.EntityFrameworkCore\Microsoft.AspNetCore.Identity.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\..\src\Microsoft.AspNetCore.Identity.SignIn\Microsoft.AspNetCore.Identity.SignIn.csproj" />
   </ItemGroup>
 
   <ItemGroup>
